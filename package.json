@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "code": "^4.0.0",
-    "hapi": "^16.1.0",
+    "hapi": "^17.0.0",
     "hoek": "^4.1.0",
     "joi": "^10.2.0",
     "lab": "^11.2.2",
